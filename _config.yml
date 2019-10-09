@@ -1,7 +1,7 @@
 # Site settings
 title: Ruru's Corner
 SEOTitle: 鱼香肉丝|Ruth
-header-img: img/5c81d7b70280e.jpg
+header-img: img/desktop/wallpaper/5c81d7b70280e.jpg
 email: ruthyucanada@gmail.com
 description: "Fear cuts deeper than a knife - Arya Stark"
 keyword: "chemistry, biology, AP, card-making, bullet-journal"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Ruth27/Ruth27.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
