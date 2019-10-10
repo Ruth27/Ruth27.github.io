@@ -20,8 +20,6 @@ Yep.
 #### Who am I???
 
 I am a CBC (Canadian Born Chinese) (no I'm not a broadcasting station) in Surrey, B.C, Canada. I attend Elgin Park Secondary and I am currently grade 11. 
-    
-img/mmexport1566759735963_mh1566760051197.jpg
 
 Just like any other teenagers, I stress about school, drink bubble tea with friends, watch YouTube, attend clubs...
 
