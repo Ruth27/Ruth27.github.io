@@ -7,5 +7,7 @@ author: Ruru
 header-img: img/nongnong.jpg
 catalog: true
 tags:
-    - Blog
+    - 关于我|About Me
     
+---    
+^_^
