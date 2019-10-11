@@ -20,9 +20,7 @@ Yep.
 
 #### Who am I
 
-I am a CBC (Canadian Born Chinese) (no I'm not a broadcasting station) in Surrey, B.C, Canada. 
-
-![]()
+I am a CBC (Canadian Born Chinese) (no I'm not a broadcasting station) in B.C, Canada. 
 
 Just like any other teenagers, I stress about school, drink bubble tea with friends, watch YouTube, attend clubs...
 
