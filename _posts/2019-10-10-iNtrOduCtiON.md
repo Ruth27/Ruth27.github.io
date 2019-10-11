@@ -16,13 +16,13 @@ Well. You might as well have just asked me, why do I, an intellectual individual
 
 Yep.
 
+
+
+#### Who am I
+
+I am a CBC (Canadian Born Chinese) (no I'm not a broadcasting station) in Surrey, B.C, Canada. 
+
 ![]()
-
-#### Who am I???
-
-I am a CBC (Canadian Born Chinese) (no I'm not a broadcasting station) in Surrey, B.C, Canada. I attend Elgin Park Secondary and I am currently grade 11. 
-
-![](img/mmexport1566759735963_mh1566760051197.jpg)
 
 Just like any other teenagers, I stress about school, drink bubble tea with friends, watch YouTube, attend clubs...
 
@@ -32,7 +32,7 @@ Just like any other Asian, I **NEED** straight As, play piano and badminton, stu
 
 But I would like to think I'm not just another carbon copy of the teenage Asian girl.
 
-So, as much as I am imparting my feelings and experiences to the deep, dark internet, I am trying to find myself along the way too. 
+So, as much as I am imparting my experiences to the deep, dark internet, I am trying to find myself along the way too. 
 
 
     
