@@ -36,6 +36,6 @@ tags:
 这位[大神](https://www.youtube.com/user/jennifermcguireink)用了[Tim Hortlz Alcohol Ink](https://rangerink.com/collections/tim-holtz-alcohol-inks),  gold/silver Embossing powders and embossing ink, and stamp set... 加起来差不多上百加元。所以如果你不是professional card-maker, 真不需要。
 
 虽然我们beginners做不到这种高级的效果，但还是可以做很多好看的卡片。我三年中只用了这些：白poster board，24色水彩，双面胶，
-工艺泡沫板 (craft foam), 亮片和 [Tim Hortlz Distress Ink](https://rangerink.com/collections/tim-holtz-distress-ink-pads).现在还没有做腻！
+工艺泡沫板 (craft foam), 亮片和 [Tim Hortlz Distress Ink](https://rangerink.com/collections/tim-holtz-distress-ink-pads). 大部分都是从一元店里买的。材料并不多，但现在还没有做腻！
 
 ![images](https://raw.githubusercontent.com/Ruth27/PicGo/master/20190127_125116_252.jpg)
