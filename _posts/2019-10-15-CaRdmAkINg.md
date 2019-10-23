@@ -11,7 +11,7 @@ tags:
  
 ---  
 #### 专业做贺卡的， 我到从来没见过..
-小时候，同学过生日需要送贺卡只能去商店里买。简单的四加币，fancy的能到十几块！！那时纯洁的的我都知道不值。
+小时候，同学过生日需要送贺卡只能去商店里买。简单的四加币，fancy的能到十几块！！那时纯洁的我都知道不值。
 三年前在Youtube上偶然发现个叫 [K Werner Design](https://www.youtube.com/user/starofmay) 的 channel， 一下子i上了 ^_^
 
 这爱好既能赚钱（I sell cards on my [instagram](https://www.instagram.com/ruru_the_cardmaker/)), 又能 "get my creative juices out".
