@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technique Tuesday #1
+title: Technique Tuesday week 1
 subtitle: (◐ω◑ )
 date: 2019-11-03
 author: Ruru
