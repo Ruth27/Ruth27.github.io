@@ -35,7 +35,7 @@ It was devoid of absolutely any skill nor technique. I merely took some watercol
 
 ![image](https://raw.githubusercontent.com/Ruth27/PicGo/master/Capture.PNG)
 
-This [iNcrEdiBLe artist](https://www.youtube.com/user/jennifermcguireink)used [Tim Hortlz Alcohol Ink](https://rangerink.com/collections/tim-holtz-alcohol-inks),  gold/silver Embossing powders and embossing ink, and stamp set... All of these amounts to the hundreds of dollars. So for amateurs like us, they're really unnecessary.
+This [iNcrEdiBLe artist](https://www.youtube.com/user/jennifermcguireink) used [Tim Hortlz Alcohol Ink](https://rangerink.com/collections/tim-holtz-alcohol-inks),  gold/silver Embossing powders and embossing ink, and stamp set... All of these amounts to the hundreds of dollars. So for amateurs like us, they're really unnecessary.
 
 Nonetheless, we can still create some lit effects. In my three years of card-making, I have really just depended on white poster boards, 24-color watercolor, double-sided tape, ✂️, white craft foam, and sequences, all of which are loyal tenants of the dollar store (*´・ｖ・) with the exception of one special guest: [Tim Hortlz Distress Ink](https://rangerink.com/collections/tim-holtz-distress-ink-pads). This is probably the best purchase I've made. As of now, I am still finding ways of employing them.
 
