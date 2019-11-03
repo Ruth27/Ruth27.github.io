@@ -7,6 +7,6 @@ author: Ruru
 header-img: 
 catalog: true
 tags:
-    - 贺卡|Card-Making
+    - card-making
  
 ---   
