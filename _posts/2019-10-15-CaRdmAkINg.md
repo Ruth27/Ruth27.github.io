@@ -1,41 +1,42 @@
 ---
 layout: post
 title: CaRdmAkINg
-subtitle: 跟我一起做卡片咯
+subtitle: Let's Make Some Cards lolz
 date: 2019-10-15
 author: Ruru
 header-img: img/cardmakingheader.jpg
 catalog: true
 tags:
-    - 贺卡|card-making
+    - card-making
  
 ---  
-#### 专业做贺卡的， 我到从来没见过..
-小时候，同学过生日需要送贺卡只能去商店里买。简单的四加币，fancy的能到十几块！！那时纯洁的我都知道不值。
-三年前在Youtube上偶然发现个叫 [K Werner Design](https://www.youtube.com/user/starofmay) 的 channel， 一下子i上了 ^_^
+#### Professional Cardmaker?? Never seen that before  ¯\_(ツ)_/¯
 
-这爱好既能赚钱（I sell cards on my [instagram](https://www.instagram.com/ruru_the_cardmaker/)), 又能 "get my creative juices out".
-所以，这几年一直都很爱做贺卡。
+Anyone else finds Safeway and Papyrus cards hella pricy? But then you still buy it because it's your best friend's birthday and you wanna make it special so you placate yourself by calling it a "occasional" splurge? ( ᐛ )و
+
+
+Three years ago while surfing on Youtube, I accidently discovered a channel called [K Werner Design](https://www.youtube.com/user/starofmay)，and I was then forever sucked into the rabbit hole of the card-making world.  
+
+
+P.S: check out my [instagram](https://www.instagram.com/ruru_the_cardmaker/) where I sell my cards ≧(´▽｀)≦
+
 
 ![Image](https://raw.githubusercontent.com/Ruth27/PicGo/master/Inked20190401_172759_187_LI.jpg)
 
-# How do I Start|怎样开始呢？
-答案非常简单： **COPY OTHERS**
+# How do I Start|
+Ans: **COPY OTHERS**
 
-
-这是我第一个贺卡。。。非常没有技术性 @_@ 
+This is my first card (neglecting the countless I did as a child):
 
 ![Images](https://raw.githubusercontent.com/Ruth27/PicGo/master/mmexport1508707886015.jpg)
 
-记得那时是先把小女孩和伞用纸遮住，然后找了一些水彩在外面疯狂的甩刷子，制成雨点般的效果。最后在写些字。
+It was devoid of absolutely any skill nor technique. I merely took some watercolor and splattered it on the paper (after masking the little girl and her umbrella), then wrote an intellgible quote... Not at all the rainbows and unicorns you see on professional cards *cough cough down below*
 
-不过真想做得很专业就得需要很多很多很多很多材料 （哎买不起）
 
 ![image](https://raw.githubusercontent.com/Ruth27/PicGo/master/Capture.PNG)
 
-这位[大神](https://www.youtube.com/user/jennifermcguireink)用了[Tim Hortlz Alcohol Ink](https://rangerink.com/collections/tim-holtz-alcohol-inks),  gold/silver Embossing powders and embossing ink, and stamp set... 加起来差不多上百加元。所以如果你不是professional card-maker, 真不需要。
+This [iNcrEdiBLe artist](https://www.youtube.com/user/jennifermcguireink)used [Tim Hortlz Alcohol Ink](https://rangerink.com/collections/tim-holtz-alcohol-inks),  gold/silver Embossing powders and embossing ink, and stamp set... All of these amounts to the hundreds of dollars. So for amateurs like us, they're really unnecessary.
 
-虽然我们beginners做不到这种高级的效果，但还是可以做很多好看的卡片。我三年中只用了这些：白poster board，24色水彩，双面胶，
-工艺泡沫板 (craft foam), 亮片和 [Tim Hortlz Distress Ink](https://rangerink.com/collections/tim-holtz-distress-ink-pads). 大部分都是从一元店里买的。材料并不多，但现在还没有做腻！
+Nonetheless, we can still create some lit effects. In my three years of card-making, I have really just depended on white poster boards, 24-color watercolor, double-sided tape, ✂️, white craft foam, and sequences, all of which are loyal tenants of the dollar store (*´・ｖ・) with the exception of one special guest: [Tim Hortlz Distress Ink](https://rangerink.com/collections/tim-holtz-distress-ink-pads). This is probably the best purchase I've made. As of now, I am still finding ways of employing them.
 
 ![images](https://raw.githubusercontent.com/Ruth27/PicGo/master/20190127_125116_252.jpg)
