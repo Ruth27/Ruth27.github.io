@@ -23,7 +23,7 @@ P.S: check out my [instagram](https://www.instagram.com/ruru_the_cardmaker/) whe
 
 ![Image](https://raw.githubusercontent.com/Ruth27/PicGo/master/Inked20190401_172759_187_LI.jpg)
 
-# How do I Start|
+# How do I Start
 Ans: **COPY OTHERS**
 
 This is my first card (neglecting the countless I did as a child):
