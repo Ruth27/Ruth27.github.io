@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CaRdmAkINg
-subtitle: Let's Make Some Cards lolz
+title: Cardmaking
+subtitle: 
 date: 2019-10-15
-author: Ruru
+author: Ru
 header-img: img/cardmakingheader.jpg
 catalog: true
 tags:
