@@ -1,12 +1,12 @@
 ---
 layout:Introduction
-subtitle: Me, Myself, and I
-date: 2019-10-10
-author: Ruru
-header-img: img/nongnong.jpg
+subtitle: :)
+date: 2021-08-01
+author: Ru
+header-img:
 catalog: true
 tags:
-    - 关于我|About Me
+    - About Me
  
 ---   
 
